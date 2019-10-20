@@ -7,4 +7,4 @@ MaChIAto can perform stricter re-classification of the output of CRISPResso(2). 
 
 MaChIAto is designed to analyze amplicon sequence including HDR- or MMEJ- assisted knock-in reads. However, the tools are also available for knock-out analysis.
 
-If you want to know more detailed information and instruction, please check our paper (coming soon!). Or, don't hesitate to contact me (kazukinakamae@gmail.com).
+## This is alpha version. Please check the latest version : [MaChIAto (LATEST VERSION)](https://github.com/KazukiNakamae/MaChIAto/)
